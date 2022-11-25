@@ -1,0 +1,27 @@
+.Photoo6{
+    background-color: rgb(159, 152, 219);
+    color: #000;
+    font-size: 18px;
+    align-items: center;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 100px;
+}
+body{
+    background-color:rgb(215, 223, 250);
+    border-radius: 700px;
+}
+.btn{
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    font-size: 15px;
+    border: none;
+}
+label{
+    display: flex;
+    flex-direction: row;
+}
